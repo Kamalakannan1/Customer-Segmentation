@@ -1,2 +1,2 @@
 # Customer-Segmentation
-Customer segmentation is the practice of dividing a company's customers into groups that reflect similarities among customers in each group. The goal of segmenting customers is to decide how to relate to customers in each segment to maximize the value of each customer to the business.
+Effective Segmentation of Customer by analysing the needs and desires of customers with the help of Machine Learning Algorithms and methods
